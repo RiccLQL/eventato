@@ -1,6 +1,6 @@
 {
   "name": "eventato",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Automatically add PostHog analytics events to your codebase using Cursor's headless CLI",
   "main": "dist/index.js",
   "bin": {
