@@ -20,7 +20,7 @@
     "automation"
   ],
   "author": "Auto Create Events Team",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "commander": "^11.1.0",
     "inquirer": "^9.2.12",
